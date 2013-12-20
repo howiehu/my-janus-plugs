@@ -1,0 +1,9 @@
+[submodule "emmet-vim"]
+	path = emmet-vim
+	url = git@github.com:mattn/emmet-vim.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/bling/vim-airline.git
+[submodule "tcomment_vim"]
+	path = tcomment_vim
+	url = git@github.com:tomtom/tcomment_vim.git
