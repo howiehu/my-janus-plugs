@@ -22,3 +22,6 @@
 [submodule "rspec.vim"]
 	path = rspec.vim
 	url = https://github.com/Keithbsmiley/rspec.vim
+[submodule "vim-bundler"]
+	path = vim-bundler
+	url = https://github.com/tpope/vim-bundler
