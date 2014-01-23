@@ -25,3 +25,9 @@
 [submodule "vim-bundler"]
 	path = vim-bundler
 	url = https://github.com/tpope/vim-bundler
+[submodule "vim-abolish"]
+	path = vim-abolish
+	url = https://github.com/tpope/vim-abolish
+[submodule "dbext.vim"]
+	path = dbext.vim
+	url = https://github.com/vim-scripts/dbext.vim
