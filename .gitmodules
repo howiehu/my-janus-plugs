@@ -16,9 +16,6 @@
 [submodule "vim-rubocop"]
 	path = vim-rubocop
 	url = https://github.com/ngmy/vim-rubocop
-[submodule "rspec.vim"]
-	path = rspec.vim
-	url = https://github.com/Keithbsmiley/rspec.vim
 [submodule "vim-bundler"]
 	path = vim-bundler
 	url = https://github.com/tpope/vim-bundler
@@ -28,3 +25,6 @@
 [submodule "dbext.vim"]
 	path = dbext.vim
 	url = https://github.com/vim-scripts/dbext.vim
+[submodule "vim-rspec"]
+	path = vim-rspec
+	url = git@github.com:thoughtbot/vim-rspec.git
