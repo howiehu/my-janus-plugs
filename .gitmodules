@@ -25,6 +25,3 @@
 [submodule "dbext.vim"]
 	path = dbext.vim
 	url = https://github.com/vim-scripts/dbext.vim
-[submodule "vim-rspec"]
-	path = vim-rspec
-	url = git@github.com:thoughtbot/vim-rspec.git
