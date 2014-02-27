@@ -34,3 +34,6 @@
 [submodule "vim-turbux"]
 	path = vim-turbux
 	url = git@github.com:jgdavey/vim-turbux.git
+[submodule "vim-rvm"]
+	path = vim-rvm
+	url = https://github.com/tpope/vim-rvm
